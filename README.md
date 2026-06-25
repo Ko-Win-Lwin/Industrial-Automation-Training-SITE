@@ -1,6 +1,6 @@
 # Advanced Certificate in Industrial Automation (SITE)
 
-![Training](images/training-1.jpg)
+![Training](images/group_photo.jpg)
 
 ## Overview
 
@@ -10,19 +10,11 @@ The training focused on industrial automation systems, PLC programming, factory 
 
 ---
 
-## Certificate
+## Certificate Academic Transcript
 
-📄 **Certificate**
 
-[View Certificate](certificate/SITE_Industrial_Automation_Certificate.pdf)
+[View Certificate & Transcript](certificate/SITE.pdf)
 
----
-
-## Academic Transcript
-
-📄 **Transcript**
-
-[View Transcript](docs/transcript.pdf)
 
 ---
 
@@ -124,10 +116,6 @@ During the course, I completed practical laboratory exercises including:
 
 Bachelor of Engineering (Mechatronics)
 
-Incoming Master of Engineering (Electrical and Computer Engineering)
+GitHub: https://github.com/Ko-Win-Lwin
 
-University of Windsor
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/win-lwin-2178451b7
