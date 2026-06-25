@@ -1,6 +1,6 @@
 # Advanced Certificate in Industrial Automation (SITE)
 
-![Training](images/group_photo.jpg)
+![Training](images/group_image.jpg)
 
 ## Overview
 
